@@ -8,9 +8,9 @@ Students will meet weekly in a small group with 1-3 instructors to discuss readi
 
 # Instructors
 
-[Sarah J. Purcell, L.F. Parker Professor of History]
-[Chris Jones, Assistant Professor, Special Collections Librarian and Archivist of the College]
-[Katherine (Katie) Walden, Digital Liberal Arts Specialist]
+- [Sarah J. Purcell, L.F. Parker Professor of History](https://www.grinnell.edu/user/purcelsj)
+- [Chris Jones, Assistant Professor, Special Collections Librarian and Archivist of the College](https://www.grinnell.edu/user/joneschr)
+- [Katherine (Katie) Walden, Digital Liberal Arts Specialist](https://www.grinnell.edu/user/waldenka)
 
 # Independent Study Components
 
@@ -78,7 +78,6 @@ What do people do with oral histories? Part II (oral history and archival practi
 Valk, Anne, and Holly Ewald, “Bringing a Hidden Pond to Public Attention: Increasing Impact through Digital Tools, “ Oral History Review (2013) 40(1): 8-24. https://doi.org/10.1093/ohr/oht019. 
 
 Kingsley, Stephanie. “Making Digital History Accessible.” Perspectives on History, May 2017: https://www.historians.org/publications-and-directories/perspectives-on-history/may-2017/making-digital-history-accessible.
-
 
 ### Final Project Work
 
